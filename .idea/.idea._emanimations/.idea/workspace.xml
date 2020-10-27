@@ -100,7 +100,7 @@
       <updated>1603599132549</updated>
       <workItem from="1603599136826" duration="1418000" />
       <workItem from="1603601762075" duration="614000" />
-      <workItem from="1603652415305" duration="24269000" />
+      <workItem from="1603652415305" duration="24589000" />
     </task>
     <task id="LOCAL-00001" summary="camera setup and animations">
       <created>1603780772477</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603780772477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final changes for the presentation">
+      <created>1603790124837</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603790124837</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,13 +138,18 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="camera setup and animations" />
-    <option name="LAST_COMMIT_MESSAGE" value="camera setup and animations" />
+    <MESSAGE value="final changes for the presentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="final changes for the presentation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2543" y="412" key="Vcs.Push.Dialog.v2" timestamp="1603780791354">
+    <state x="338" y="239" width="1280" height="1031" key="VCS.FileHistoryDialog" timestamp="1603790133216">
       <screen x="0" y="0" width="5120" height="1410" />
     </state>
-    <state x="2543" y="412" key="Vcs.Push.Dialog.v2/0.0.5120.1410@0.0.5120.1410" timestamp="1603780791354" />
+    <state x="338" y="239" width="1280" height="1031" key="VCS.FileHistoryDialog/0.0.5120.1410@0.0.5120.1410" timestamp="1603790133216" />
+    <state x="2543" y="412" key="Vcs.Push.Dialog.v2" timestamp="1603790129743">
+      <screen x="0" y="0" width="5120" height="1410" />
+    </state>
+    <state x="2543" y="412" key="Vcs.Push.Dialog.v2/0.0.5120.1410@0.0.5120.1410" timestamp="1603790129743" />
     <state x="864" y="88" width="1043" height="1100" key="dock-window-1" timestamp="1603733198554">
       <screen x="0" y="0" width="5120" height="1410" />
     </state>
