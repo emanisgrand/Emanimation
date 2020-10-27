@@ -1,0 +1,5873 @@
+fileFormatVersion: 2
+guid: c51a1801a7cb9114fba46e9c470ac6f7
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: ScavengerHuntTest_GO/ScavengerHuntTest_GO
+    100188: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier
+    100190: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/3 long mountains
+    100192: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/beetle person 3 copy
+    100194: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/beige nordic tree
+    100196: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/big tree copy 12
+    100198: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/brown treasure chest
+    100200: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/dino slide dot copy
+    100202: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/EoG node copy 4
+    100204: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/fir tree
+    100206: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/firefly person 5
+      copy
+    100208: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/fox
+    100210: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser
+    100212: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser small
+    100214: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser, bunting,
+      tree
+    100216: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser_1
+    100218: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/happy top knot troll
+    100220: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/hotdog copy
+    100222: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/ksusha copy 2
+    100224: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Layer 1
+    100226: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/left ear
+    100228: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/level line 23
+    100230: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/level lline 22
+    100232: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/levell line 20
+    100234: 'ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/log cabin '
+    100236: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/main bod copy
+    100238: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/main island tier
+      1 and 3
+    100240: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle
+    100242: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/blue
+      spire
+    100244: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/Castle
+    100246: 'ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/Castle
+      wall '
+    100248: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/ice
+      town hut flames
+    100250: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/ice
+      town hut flames copy
+    100252: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/level
+      line 21
+    100254: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/level
+      line 22
+    100256: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 38
+    100258: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 39
+    100260: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 40
+    100262: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 41
+    100264: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 42
+    100266: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 43
+    100268: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/spire
+    100270: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/moutains
+    100272: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 36
+    100274: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 37
+    100276: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 44
+    100278: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 45
+    100280: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/nose copy
+    100282: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People
+    100284: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/addison copy
+    100286: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/alicia copy
+    100288: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/chao copy
+      2
+    100290: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/firefly person
+      4 copy
+    100292: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/firefly person
+      6 copy
+    100294: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/jae copy
+    100296: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Jordan copy
+    100298: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/lantern person
+      2 copy
+    100300: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/little my
+    100302: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/mum and kid
+      copy 2
+    100304: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Paul murphy
+      copy 2
+    100306: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40 copy
+      6
+    100308: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40 copy
+      6_1
+    100310: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40 copy
+      6_2
+    100312: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 610
+      copy
+    100314: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 611
+      copy
+    100316: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Shirley copy
+      2
+    100318: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/ted copy 2
+    100320: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Toby  copy
+      2
+    100322: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/yin copy 2
+    100324: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink mountain
+    100326: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink mountain_1
+    100328: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink nordic tree
+    100330: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink nordic tree_1
+    100332: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree
+    100334: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree copy
+      2
+    100336: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree copy
+      3
+    100338: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/right ear
+    100340: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/snowed over japanese
+      house
+    100342: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/snowmobile
+    100344: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/stag
+    100346: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/The Sea
+    100348: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      8
+    100350: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      9
+    100352: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      10
+    100354: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      11
+    100356: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      12
+    100358: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      13
+    100360: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny trolls
+    100362: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll arm
+    100364: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll cave
+    100366: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll in the cave
+      copy
+    100368: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll skull
+    100370: 'ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/trollwaterfall '
+    100372: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troooooll
+    100374: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/volcano smoke
+    100376: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/wiggly lines copy
+    100378: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/yeti
+    400000: ScavengerHuntTest_GO/ScavengerHuntTest_GO/Transform
+    400188: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Transform
+    400190: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/3 long mountains/Transform
+    400192: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/beetle person 3 copy/Transform
+    400194: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/beige nordic tree/Transform
+    400196: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/big tree copy 12/Transform
+    400198: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/brown treasure chest/Transform
+    400200: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/dino slide dot copy/Transform
+    400202: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/EoG node copy 4/Transform
+    400204: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/fir tree/Transform
+    400206: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/firefly person 5
+      copy/Transform
+    400208: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/fox/Transform
+    400210: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser/Transform
+    400212: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser small/Transform
+    400214: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser, bunting,
+      tree/Transform
+    400216: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser_1/Transform
+    400218: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/happy top knot troll/Transform
+    400220: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/hotdog copy/Transform
+    400222: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/ksusha copy 2/Transform
+    400224: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Layer 1/Transform
+    400226: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/left ear/Transform
+    400228: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/level line 23/Transform
+    400230: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/level lline 22/Transform
+    400232: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/levell line 20/Transform
+    400234: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/log cabin /Transform
+    400236: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/main bod copy/Transform
+    400238: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/main island tier
+      1 and 3/Transform
+    400240: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/Transform
+    400242: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/blue
+      spire/Transform
+    400244: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/Castle/Transform
+    400246: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/Castle
+      wall /Transform
+    400248: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/ice
+      town hut flames/Transform
+    400250: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/ice
+      town hut flames copy/Transform
+    400252: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/level
+      line 21/Transform
+    400254: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/level
+      line 22/Transform
+    400256: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 38/Transform
+    400258: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 39/Transform
+    400260: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 40/Transform
+    400262: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 41/Transform
+    400264: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 42/Transform
+    400266: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 43/Transform
+    400268: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/spire/Transform
+    400270: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/moutains/Transform
+    400272: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 36/Transform
+    400274: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 37/Transform
+    400276: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 44/Transform
+    400278: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 45/Transform
+    400280: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/nose copy/Transform
+    400282: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Transform
+    400284: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/addison copy/Transform
+    400286: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/alicia copy/Transform
+    400288: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/chao copy
+      2/Transform
+    400290: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/firefly person
+      4 copy/Transform
+    400292: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/firefly person
+      6 copy/Transform
+    400294: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/jae copy/Transform
+    400296: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Jordan copy/Transform
+    400298: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/lantern person
+      2 copy/Transform
+    400300: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/little my/Transform
+    400302: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/mum and kid
+      copy 2/Transform
+    400304: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Paul murphy
+      copy 2/Transform
+    400306: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40 copy
+      6/Transform
+    400308: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40 copy
+      6_1/Transform
+    400310: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40 copy
+      6_2/Transform
+    400312: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 610
+      copy/Transform
+    400314: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 611
+      copy/Transform
+    400316: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Shirley copy
+      2/Transform
+    400318: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/ted copy 2/Transform
+    400320: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Toby  copy
+      2/Transform
+    400322: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/yin copy 2/Transform
+    400324: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink mountain/Transform
+    400326: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink mountain_1/Transform
+    400328: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink nordic tree/Transform
+    400330: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink nordic tree_1/Transform
+    400332: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree/Transform
+    400334: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree copy
+      2/Transform
+    400336: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree copy
+      3/Transform
+    400338: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/right ear/Transform
+    400340: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/snowed over japanese
+      house/Transform
+    400342: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/snowmobile/Transform
+    400344: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/stag/Transform
+    400346: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/The Sea/Transform
+    400348: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      8/Transform
+    400350: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      9/Transform
+    400352: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      10/Transform
+    400354: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      11/Transform
+    400356: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      12/Transform
+    400358: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree copy
+      13/Transform
+    400360: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny trolls/Transform
+    400362: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll arm/Transform
+    400364: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll cave/Transform
+    400366: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll in the cave
+      copy/Transform
+    400368: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll skull/Transform
+    400370: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/trollwaterfall /Transform
+    400372: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troooooll/Transform
+    400374: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/volcano smoke/Transform
+    400376: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/wiggly lines copy/Transform
+    400378: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/yeti/Transform
+    2800000: ScavengerHuntTest
+    21200186: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/3 long mountains/SpriteRenderer
+    21200188: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/beetle person 3
+      copy/SpriteRenderer
+    21200190: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/beige nordic tree/SpriteRenderer
+    21200192: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/big tree copy 12/SpriteRenderer
+    21200194: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/brown treasure
+      chest/SpriteRenderer
+    21200196: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/dino slide dot
+      copy/SpriteRenderer
+    21200198: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/EoG node copy 4/SpriteRenderer
+    21200200: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/fir tree/SpriteRenderer
+    21200202: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/firefly person
+      5 copy/SpriteRenderer
+    21200204: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/fox/SpriteRenderer
+    21200206: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser/SpriteRenderer
+    21200208: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser small/SpriteRenderer
+    21200210: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser, bunting,
+      tree/SpriteRenderer
+    21200212: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/geyser_1/SpriteRenderer
+    21200214: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/happy top knot
+      troll/SpriteRenderer
+    21200216: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/hotdog copy/SpriteRenderer
+    21200218: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/ksusha copy 2/SpriteRenderer
+    21200220: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Layer 1/SpriteRenderer
+    21200222: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/left ear/SpriteRenderer
+    21200224: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/level line 23/SpriteRenderer
+    21200226: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/level lline 22/SpriteRenderer
+    21200228: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/levell line 20/SpriteRenderer
+    21200230: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/log cabin /SpriteRenderer
+    21200232: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/main bod copy/SpriteRenderer
+    21200234: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/main island tier
+      1 and 3/SpriteRenderer
+    21200236: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/blue
+      spire/SpriteRenderer
+    21200238: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/Castle/SpriteRenderer
+    21200240: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/Castle
+      wall /SpriteRenderer
+    21200242: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/ice
+      town hut flames/SpriteRenderer
+    21200244: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/ice
+      town hut flames copy/SpriteRenderer
+    21200246: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/level
+      line 21/SpriteRenderer
+    21200248: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/level
+      line 22/SpriteRenderer
+    21200250: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 38/SpriteRenderer
+    21200252: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 39/SpriteRenderer
+    21200254: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 40/SpriteRenderer
+    21200256: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 41/SpriteRenderer
+    21200258: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 42/SpriteRenderer
+    21200260: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/node
+      copy 43/SpriteRenderer
+    21200262: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/Moutain castle/spire/SpriteRenderer
+    21200264: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/moutains/SpriteRenderer
+    21200266: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 36/SpriteRenderer
+    21200268: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 37/SpriteRenderer
+    21200270: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 44/SpriteRenderer
+    21200272: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/node copy 45/SpriteRenderer
+    21200274: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/nose copy/SpriteRenderer
+    21200276: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/addison
+      copy/SpriteRenderer
+    21200278: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/alicia copy/SpriteRenderer
+    21200280: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/chao copy
+      2/SpriteRenderer
+    21200282: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/firefly
+      person 4 copy/SpriteRenderer
+    21200284: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/firefly
+      person 6 copy/SpriteRenderer
+    21200286: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/jae copy/SpriteRenderer
+    21200288: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Jordan copy/SpriteRenderer
+    21200290: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/lantern
+      person 2 copy/SpriteRenderer
+    21200292: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/little my/SpriteRenderer
+    21200294: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/mum and
+      kid copy 2/SpriteRenderer
+    21200296: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Paul murphy
+      copy 2/SpriteRenderer
+    21200298: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40
+      copy 6/SpriteRenderer
+    21200300: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40
+      copy 6_1/SpriteRenderer
+    21200302: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 40
+      copy 6_2/SpriteRenderer
+    21200304: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 610
+      copy/SpriteRenderer
+    21200306: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/rando 611
+      copy/SpriteRenderer
+    21200308: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Shirley
+      copy 2/SpriteRenderer
+    21200310: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/ted copy
+      2/SpriteRenderer
+    21200312: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/Toby  copy
+      2/SpriteRenderer
+    21200314: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/People/yin copy
+      2/SpriteRenderer
+    21200316: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink mountain/SpriteRenderer
+    21200318: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink mountain_1/SpriteRenderer
+    21200320: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink nordic tree/SpriteRenderer
+    21200322: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/pink nordic tree_1/SpriteRenderer
+    21200324: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree/SpriteRenderer
+    21200326: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree
+      copy 2/SpriteRenderer
+    21200328: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/red nordic tree
+      copy 3/SpriteRenderer
+    21200330: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/right ear/SpriteRenderer
+    21200332: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/snowed over japanese
+      house/SpriteRenderer
+    21200334: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/snowmobile/SpriteRenderer
+    21200336: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/stag/SpriteRenderer
+    21200338: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/The Sea/SpriteRenderer
+    21200340: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree
+      copy 8/SpriteRenderer
+    21200342: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree
+      copy 9/SpriteRenderer
+    21200344: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree
+      copy 10/SpriteRenderer
+    21200346: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree
+      copy 11/SpriteRenderer
+    21200348: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree
+      copy 12/SpriteRenderer
+    21200350: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny leaf tree
+      copy 13/SpriteRenderer
+    21200352: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/tiny trolls/SpriteRenderer
+    21200354: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll arm/SpriteRenderer
+    21200356: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll cave/SpriteRenderer
+    21200358: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll in the cave
+      copy/SpriteRenderer
+    21200360: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troll skull/SpriteRenderer
+    21200362: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/trollwaterfall
+      /SpriteRenderer
+    21200364: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/troooooll/SpriteRenderer
+    21200366: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/volcano smoke/SpriteRenderer
+    21200368: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/wiggly lines copy/SpriteRenderer
+    21200370: ScavengerHuntTest_GO/ScavengerHuntTest_GO/SampleTier/yeti/SpriteRenderer
+    21300000: cf98500190d8d8643b918b21134eb402
+    21300002: 4c9619e44af246843af448004b2ea5ce
+    21300004: 8731a09f1bf0f8a48b451c50aef8d1cb
+    21300006: 660ca2e438881694584805c57284d413
+    21300008: 6e991128f5493734aa7a514619ba2000
+    21300010: 0b8c2f2388a78ff49836b4561ec80343
+    21300012: 643af299dca52be41a3d2c93a843d4e5
+    21300014: ed82689918e25da4c9e177040c33dd00
+    21300016: dbe15f442e3857e49842071027b15a25
+    21300018: ff02af2639f1e39419d190ddc0d14d2f
+    21300020: b456d3d7a5f7c1746b30e003891ffcdc
+    21300022: 81436ae148a52f34aaf83653b5b01139
+    21300024: 017252015b4beb64ca100d5c46a32a3d
+    21300026: e67554fd81e709d40b64b5de9df0ed2b
+    21300028: 0be713d2a7824bc4f8f78d029cb33c20
+    21300030: 23ff6756adbd7b14fbba34421387aadc
+    21300032: f611f4033c12eab419e2ea0e827dbd46
+    21300034: 5283c73d757e5d6419d31b1f281d86f9
+    21300036: e31984a4d533eed499c1c90d43b83136
+    21300038: 2e99603783218104389208f38da7d693
+    21300040: 16de549a921c20a4d9bf51e2ad1f4c99
+    21300042: 8114eca14334fda4a9e7252ce7b47c10
+    21300044: 25d33044073e703408f306e04e28aac6
+    21300046: ade34c288069a744992eb685e474392a
+    21300048: dc99f745cdf8ad248b1e1b0eb04d900b
+    21300050: 060526c7066128647ab55c16055a7e74
+    21300052: ed955912230be1b448cefb919bf4ded7
+    21300054: 07e652eb1ea88814aaa5112b964d257b
+    21300056: b628270d06e66e64db80a88167b1d95e
+    21300058: 9fa8c53fac7880d46be679575503995d
+    21300060: c8fa3f03dab39c94381fb8acb7bb6b01
+    21300062: 3bece8d9c6148b247a62642cbd0cf868
+    21300064: 906ae956819d6ff44a1ca154e6f507f6
+    21300066: bc2aa8a1fe53ebf4aac06040910de408
+    21300068: 71fb8f3e74188554082c63b0659850a0
+    21300070: 4bd4ac0aff2fc4441b409d1482eb09a4
+    21300072: 6ff7cec8e681fe944b524f660faaf804
+    21300074: 7856ec71788f69e4b9daaa9e846267b1
+    21300076: 32b95354a2df1d94790175c43aa639f0
+    21300078: 8dc60777a4fe52d4c979ea077430be1b
+    21300080: 53114370a59b737429da044d89cddf94
+    21300082: e6607e6a0f52ced45b03a6dd904e0239
+    21300084: edd65cd20c243e54f9d1e99744c387c0
+    21300086: 4c914177e1625d6459c8ad96d386fc63
+    21300088: c567048c13987ac4e9986e79ff794c1d
+    21300090: 98589e116056d2a4b8c661f7828f2809
+    21300092: 66f7e30cf00c0574b92d1a8c0ff72851
+    21300094: 52824e828e2f15a44b7ace04604873fe
+    21300096: d13e7c8ff6fbacb4ca477779765f9277
+    21300098: 4c79426d155dc9842999bfc3052cd7b9
+    21300100: 94aab76f06e6be54ba8f8ba642b5de76
+    21300102: e7d9f6f710a52634d82d562d1c32f2a7
+    21300104: cead2be5c41dad243b97eebdb14e1c27
+    21300106: 32f9126649446324a847e3a14b980227
+    21300108: a27f0ab8a5771594f9a6e1266c70714d
+    21300110: b48cfc8e6d488cc46bd25d7fbe269c77
+    21300112: bb96d8787a6e9744ebfd6762251bbbcd
+    21300114: e31e25c7ec0fc804ba2676bd5c975256
+    21300116: 8ff799eca73f2c84c85977d50b731026
+    21300118: 59dd205136c81e8448a6be5914bb583c
+    21300120: 71f6c1c41fbc5894f9f346e2f5eb553a
+    21300122: 7bddcce285016be48af0c42d7d9fff7c
+    21300124: 614d21ce51cc8264c84d885270084052
+    21300126: 2b3d5a2eeb7f74e4593523154e89e674
+    21300128: 8042d4eac2d9b6841a87b58f82d0caac
+    21300130: f947b6ef0c3f1834ab895c61ab02eba0
+    21300132: 2c575a48a6f9b5f4a98ececb782a3f66
+    21300134: 99c61deba8c1f2c429690ebc1d4fb2ce
+    21300136: 91ed01251727c1e48b02a4a1d612e68e
+    21300138: debcf00a90408924a9d483ddee349150
+    21300140: 5d9080800695e0145ab5a636860cae60
+    21300142: 767ac8d689453c44f8f38912f98601bb
+    21300144: e5a57577d95b13145a66e197649f3fe3
+    21300146: 165d5d0567a59a74ab2a60fa32226441
+    21300148: 9137621dfca030a468c6ac22f7fc052d
+    21300150: 9c3b16d29b66e5344928cae9b1d9d064
+    21300152: fd944b9931a16fd4688cab851b2ea4fd
+    21300154: cf76b98f99834ab42be8cee4dfb553ed
+    21300156: 45234fa025cd3ec4b8053e80dcaeef3c
+    21300158: f424e00428217a449ad9261bfe2fecb8
+    21300160: 7fd21e3d8c51d074f9050ec51ad3635e
+    21300162: 3418babfc7566bd4cb9cf839f37f5ec4
+    21300164: a0476258f8bcc744491aa20261a4dc96
+    21300166: 9cd048eefef30c04a82be05342118406
+    21300168: 3d70d04275303ad4eace8f6ab9d8a28a
+    21300170: dfba81e15e5e84e409277f5615d7703e
+    21300172: ef884bb71d63b6c4dad59b514a18225f
+    21300174: a21f3233497bf4f42bc0039ae682c299
+    21300176: 53d9ad098ff31fc4982a419f87d5fef3
+    21300178: 776291738d975e74dbccc20b2517eedf
+    21300180: fc5bf22cac9895c4281af16161da083d
+    21300182: 1008c6df591ddf64a830caeee3f513e9
+    21300184: 5d43981f65738ff4f86547649f94a5fe
+    100100000: ScavengerHuntTest_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 300
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: ScavengerHuntTest_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 2202
+      height: 3351
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: rando 40 copy 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1866
+      y: 7207
+      width: 71
+      height: 71
+    spriteID: 8cdecc7ce1ac36a45a0021b38d759ffb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1236, y: 5778}
+  - name: rando 40 copy 6_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1258
+      y: 7207
+      width: 81
+      height: 82
+    spriteID: 29dc267e4f2ff694abf8bd9fc9ee8458
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 602, y: 4947}
+  - name: firefly person 6 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1162
+      y: 8021
+      width: 123
+      height: 96
+    spriteID: 41fa052f7e29ae04f8320efc6138eff7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 765, y: 6472}
+  - name: firefly person 4 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1079
+      y: 7207
+      width: 77
+      height: 92
+    spriteID: 3c8fa2c4d3fc124418c21af8749359f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 637, y: 6600}
+  - name: lantern person 2 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1347
+      y: 7207
+      width: 76
+      height: 84
+    spriteID: 008f0dc8d933d4c478fb98da37a7b05c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 977, y: 5269}
+  - name: little my
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2424
+      y: 7183
+      width: 100
+      height: 151
+    spriteID: bb9b509dc024e7c43a49e63ad8f7efd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 900, y: 5334}
+  - name: rando 40 copy 6_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1945
+      y: 7207
+      width: 71
+      height: 71
+    spriteID: 66cfa4e9b60364d4a83b8a24527a4227
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1319, y: 4334}
+  - name: mum and kid copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1644
+      y: 8091
+      width: 89
+      height: 92
+    spriteID: 8b9219f53aadfe74d8273ca16d0b3fcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 938, y: 5222}
+  - name: rando 610 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 3117
+      width: 82
+      height: 109
+    spriteID: 76e80e21fdb7b9f419f66fa20c155c9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2511, y: 1371}
+  - name: rando 611 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2456
+      y: 7623
+      width: 73
+      height: 88
+    spriteID: 7ed840e7f5fecd140a4db8168e007efe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1617, y: 6253}
+  - name: Jordan copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1525
+      y: 7207
+      width: 78
+      height: 78
+    spriteID: e479aecc3ef5bca4b94377f3866131a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 187, y: 6421}
+  - name: jae copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1697
+      y: 7207
+      width: 79
+      height: 76
+    spriteID: 6f2dbe8f0c71a2349bd768c5cff4530d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 953, y: 5060}
+  - name: yin copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 3007
+      width: 95
+      height: 102
+    spriteID: 8d2219b5b3bbe814ba95fbb326039a8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1977, y: 2566}
+  - name: ted copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 3234
+      width: 84
+      height: 88
+    spriteID: 4f3467db70c38f54595d4db02edb9df2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1590, y: 1057}
+  - name: Shirley copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1532
+      y: 8091
+      width: 104
+      height: 83
+    spriteID: 26e0d42871c3c76489fd4896e4bbaf6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -12, y: 6440}
+  - name: Paul murphy copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1784
+      y: 7207
+      width: 74
+      height: 75
+    spriteID: 882782a21e703454a8557153980ef6d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 730, y: 5054}
+  - name: chao copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1405
+      y: 8091
+      width: 119
+      height: 85
+    spriteID: a5ba93c7cfea0e043b4fad2081db74ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 76, y: 6731}
+  - name: addison copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1164
+      y: 7207
+      width: 86
+      height: 82
+    spriteID: e0d9e0fa9643b7b468fdf9b96e5f83f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 732, y: 5215}
+  - name: Toby  copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1611
+      y: 7207
+      width: 78
+      height: 77
+    spriteID: ef9d925deef06ea4ea22140f64f24470
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 887, y: 5786}
+  - name: alicia copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2384
+      y: 5257
+      width: 106
+      height: 76
+    spriteID: a7727f0d724e53646ba769083a20e8e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1721, y: 4757}
+  - name: node copy 37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3887
+      y: 1514
+      width: 153
+      height: 115
+    spriteID: 9e56a326f9d92c94aaec3be8ce8b5f7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2586, y: 773}
+  - name: stag
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1741
+      y: 7932
+      width: 205
+      height: 245
+    spriteID: 18f247f3e02b69f439578407bc5fe7d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1375, y: 7631}
+  - name: geyser, bunting, tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 1665
+      width: 608
+      height: 626
+    spriteID: 0b2c84d9e33dadf4c83021f816e033be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2569, y: 218}
+  - name: big tree copy 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1741
+      y: 7322
+      width: 243
+      height: 602
+    spriteID: 93972157b69b09844b21411788993b6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1270, y: 5808}
+  - name: red nordic tree copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2431
+      y: 5779
+      width: 82
+      height: 266
+    spriteID: b3c4da68a94a2b247b7f8129719f4210
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1178, y: 3463}
+  - name: red nordic tree copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3337
+      y: 3023
+      width: 82
+      height: 266
+    spriteID: 6a2171ae3fd5bb849b36a47a92b7c967
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2874, y: 721}
+  - name: red nordic tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3954
+      y: 656
+      width: 82
+      height: 266
+    spriteID: 8b951718d7488f140ae95d50cf3d25cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2401, y: 334}
+  - name: beige nordic tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2337
+      y: 7753
+      width: 139
+      height: 257
+    spriteID: b95e3e59e06b562498c9c66e2afb3d75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 856, y: 7346}
+  - name: ksusha copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1293
+      y: 8021
+      width: 104
+      height: 112
+    spriteID: 08f17dfda7487434cb946b70b59bbdb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: 7546}
+  - name: node copy 36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3466
+      y: 832
+      width: 153
+      height: 115
+    spriteID: ab05505692cc01f4ca896f7ee2fc4a43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2189, y: 396}
+  - name: levell line 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3450
+      y: 2275
+      width: 372
+      height: 823
+    spriteID: 02f20cab21f420a46bbbff64964e348a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2206, y: 1963}
+  - name: pink nordic tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2456
+      y: 7400
+      width: 72
+      height: 215
+    spriteID: ee380fcf45af13445b724451b45d3597
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 866, y: 6926}
+  - name: geyser
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 6075
+      width: 180
+      height: 460
+    spriteID: 17b174102f3216e4e89f3f72f80e5939
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1263, y: 5605}
+  - name: firefly person 5 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1431
+      y: 7207
+      width: 86
+      height: 73
+    spriteID: 7374ad7a3e7a24c46ab1a42665594772
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 342, y: 6549}
+  - name: beetle person 3 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2371
+      y: 5694
+      width: 85
+      height: 75
+    spriteID: 3cb347ad6711b9d4a81bd72403952bea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1187, y: 5062}
+  - name: geyser_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 2299
+      width: 470
+      height: 716
+    spriteID: 509d09a35bd91b34b8d8f39b70c8418a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1891, y: 1941}
+  - name: 'Castle wall '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 4
+      width: 624
+      height: 971
+    spriteID: 7b3d254e3f96d6f459ee0c76ac26e56b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1926, y: -470}
+  - name: node copy 38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3627
+      y: 832
+      width: 153
+      height: 115
+    spriteID: 5ff127e7d786f5748b432924a9bf53f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2479, y: -316}
+  - name: node copy 43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3788
+      y: 832
+      width: 153
+      height: 115
+    spriteID: 5e93dcbd2ab11c44e9da073d7f12e429
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3572, y: -1172}
+  - name: node copy 42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: cefbd27a5263b9146855defe736c360f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -145, y: 6346}
+  - name: node copy 40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: c2105eab692e8ec4f8cd291df29715a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1364, y: 6445}
+  - name: node copy 41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1013
+      y: 8021
+      width: 141
+      height: 115
+    spriteID: 39833837e6b30464abe1ec4e92de0f3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 195, y: 6698}
+  - name: level line 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 862
+      y: 7322
+      width: 871
+      height: 691
+    spriteID: d136ae55f9c47ca45bd4e9ac52f830d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 103, y: 6246}
+  - name: Castle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2214
+      y: 4
+      width: 612
+      height: 1793
+    spriteID: 697d11966190ad343a06ecaf1b425a0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1050, y: -503}
+  - name: ice town hut flames copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2214
+      y: 2784
+      width: 502
+      height: 548
+    spriteID: 66082eb316192c04cb75280dd71ffcfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1086, y: 1676}
+  - name: ice town hut flames
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 3363
+      width: 502
+      height: 548
+    spriteID: 9ba559bb4c8026e419a19c4631581468
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 894, y: 2157}
+  - name: spire
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3312
+      y: 2299
+      width: 106
+      height: 667
+    spriteID: d33f094383964904990cfeeaa977ca9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1858, y: 1078}
+  - name: blue spire
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3954
+      y: 4
+      width: 106
+      height: 644
+    spriteID: 64cf766289ddb6847908990e8e8aeab4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2816, y: -1109}
+  - name: node copy 39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 326
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: 6cdc35c58f3fd2444beb71980b46b3cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -759, y: 6491}
+  - name: level line 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 3023
+      width: 495
+      height: 255
+    spriteID: b956e81dc56dc78489f1a54acdc210a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1744, y: 1497}
+  - name: troll skull
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7322
+      width: 850
+      height: 714
+    spriteID: 1b014286125b2404ba55c194e4a847d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -319, y: 6800}
+  - name: tiny leaf tree copy 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2384
+      y: 4904
+      width: 111
+      height: 345
+    spriteID: 819d35ce299c29f49a28d5caf0356122
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1344, y: 2006}
+  - name: tiny leaf tree copy 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2371
+      y: 5341
+      width: 111
+      height: 345
+    spriteID: 79bf54c860acf3b4c96633fecfbd88a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 762, y: 3787}
+  - name: tiny leaf tree copy 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3974
+      y: 1665
+      width: 111
+      height: 345
+    spriteID: e3343604bda4dcd428e53b73a252c354
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2252, y: -131}
+  - name: tiny leaf tree copy 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 7400
+      width: 111
+      height: 345
+    spriteID: 032248cd9b75d8749bfe2cb5f00a575d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1355, y: 5891}
+  - name: tiny leaf tree copy 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 7753
+      width: 111
+      height: 345
+    spriteID: 8cdfa7dcf3f610c4da483f8757a6cb8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1695, y: 5775}
+  - name: tiny leaf tree copy 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2337
+      y: 7400
+      width: 111
+      height: 345
+    spriteID: 96559a3e3e2eea145af9761323fdc34a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2072, y: 5279}
+  - name: geyser small
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3830
+      y: 2742
+      width: 190
+      height: 546
+    spriteID: 8678c84348e1ec443bc81b4a9767ea1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2826, y: 1234}
+  - name: tiny trolls
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 8106
+      width: 105
+      height: 81
+    spriteID: dfb9b9e7e32d38e4da10decb72f50d09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1279, y: 6554}
+  - name: moutains
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 3919
+      width: 478
+      height: 495
+    spriteID: 543b492ae9f2a474287791414859030e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1373, y: 2390}
+  - name: pink nordic tree_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 2784
+      width: 72
+      height: 215
+    spriteID: 771e6eab0832162419d62c5ad6971df5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1492, y: 2347}
+  - name: troll arm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6674
+      width: 258
+      height: 285
+    spriteID: bdc687938077ce54db808cf9b53ac13a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1973, y: 4180}
+  - name: nose copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3974
+      y: 2018
+      width: 111
+      height: 200
+    spriteID: 78f3025c37b65e04a81b79e26127b473
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3622, y: -786}
+  - name: pink mountain
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 5779
+      width: 393
+      height: 288
+    spriteID: 3cf88588191d2864a81d1025f593649c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1448, y: 3863}
+  - name: yeti
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3718
+      y: 983
+      width: 368
+      height: 523
+    spriteID: ced1d675ffd8e4c4a9425588835cb1bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2982, y: -1013}
+  - name: node copy 45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: db28355c2a4b4be4a8874d9c750fff55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -938, y: 6145}
+  - name: node copy 44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 648
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: 824278fef855c474f992f548afae8ac3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -425, y: 5923}
+  - name: level line 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 983
+      width: 876
+      height: 674
+    spriteID: e6d918667fa7e0347b89551d88e9049f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2040, y: -936}
+  - name: snowmobile
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6075
+      width: 304
+      height: 272
+    spriteID: c0c27b083c503e64a816b24a87728c54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1242, y: 3850}
+  - name: EoG node copy 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2337
+      y: 8018
+      width: 170
+      height: 131
+    spriteID: bb133b2482ce13b418812393c57f38ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1967, y: 6540}
+  - name: level lline 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3466
+      y: 4
+      width: 480
+      height: 820
+    spriteID: e702a14fe2bc130428a114b2cd42d10a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3333, y: -1398}
+  - name: 3 long mountains
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2214
+      y: 1805
+      width: 609
+      height: 971
+    spriteID: 33c46852ef011b1479a7c7ab7feb8f69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1982, y: -68}
+  - name: snowed over japanese house
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 4422
+      width: 432
+      height: 474
+    spriteID: dd169ddbc510f594baf6821dfea545d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 546, y: 2632}
+  - name: hotdog copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2438
+      y: 6967
+      width: 88
+      height: 104
+    spriteID: 656c1c9cb8abc7e4783601a8c97643aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 921, y: 4697}
+  - name: dino slide dot copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2438
+      y: 7079
+      width: 94
+      height: 80
+    spriteID: 69972af6f89c73e40bb68a373f880778
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1015, y: 4903}
+  - name: pink mountain_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 5341
+      width: 333
+      height: 430
+    spriteID: b9ef46172491ba047aafc3f045240ce8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 678, y: 3415}
+  - name: volcano smoke
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6967
+      width: 212
+      height: 208
+    spriteID: 3bffbab39df9d3946960225cec215aba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1696, y: 3886}
+  - name: 'log cabin '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6462
+      width: 1067
+      height: 852
+    spriteID: 4b67c225918baf3468a27559ccc18ff9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -428, y: 4202}
+  - name: fir tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3830
+      y: 2275
+      width: 243
+      height: 459
+    spriteID: 1ab28714bf6dc7346a920e10bd444b4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3124, y: -487}
+  - name: brown treasure chest
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3718
+      y: 1514
+      width: 161
+      height: 128
+    spriteID: f34806bf5a178264b8f05766419ac2ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2789, y: -1378}
+  - name: right ear
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1405
+      y: 8021
+      width: 177
+      height: 62
+    spriteID: 00d92b6ecd85cb04a95b77bc9eb62074
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 957, y: 5007}
+  - name: main bod copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3450
+      y: 1665
+      width: 516
+      height: 602
+    spriteID: 3056660f5d497554588b22f3d64da7cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3268, y: -824}
+  - name: left ear
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 862
+      y: 8021
+      width: 143
+      height: 120
+    spriteID: f923bc698b1f4f14385b3dfa0abea85b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 676, y: 5147}
+  - name: wiggly lines copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3450
+      y: 3106
+      width: 368
+      height: 189
+    spriteID: c5ee30876ffe03b41871e649407fcf78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1797, y: 2023}
+  - name: fox
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 7183
+      width: 198
+      height: 209
+    spriteID: 4b9c20a4252adc64895da13e511f3fd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 460, y: 5780}
+  - name: main island tier 1 and 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3363
+      width: 2018
+      height: 3091
+    spriteID: 993a18c5b2422d14783d7ae453a36b89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -18, y: 3199}
+  - name: troll in the cave copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2540
+      y: 3822
+      width: 376
+      height: 213
+    spriteID: 7aa162494b4afb04d910ada587160536
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1889, y: 2811}
+  - name: happy top knot troll
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6355
+      width: 264
+      height: 311
+    spriteID: 0f80265ce17a8a447b326ccb1be4a855
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1334, y: 5206}
+  - name: troll cave
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2540
+      y: 3363
+      width: 526
+      height: 451
+    spriteID: 2ad0b40bbe856564493ec29f4796b22a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1968, y: 2344}
+  - name: troooooll
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 4904
+      width: 346
+      height: 429
+    spriteID: 917d13010a26367409ee22bd637859fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1636, y: 3977}
+  - name: 'trollwaterfall '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1079
+      y: 6462
+      width: 935
+      height: 737
+    spriteID: d4d14551b0b9675419bfb9681575eb81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 892, y: 5337}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1866
+      y: 7286
+      width: 0
+      height: 0
+    spriteID: 393db1e666bd6b2418b7fa87995e36cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -336, y: 3935}
+  - name: The Sea
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2202
+      height: 3351
+    spriteID: 689c1defc5d9de947801418ba70ff2bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  rigSpriteImportData:
+  - name: rando 40 copy 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1866
+      y: 7207
+      width: 71
+      height: 71
+    spriteID: cf98500190d8d8643b918b21134eb402
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1236, y: 5778}
+  - name: rando 40 copy 6_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1258
+      y: 7207
+      width: 81
+      height: 82
+    spriteID: 4c9619e44af246843af448004b2ea5ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 602, y: 4947}
+  - name: firefly person 6 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1162
+      y: 8021
+      width: 123
+      height: 96
+    spriteID: 8731a09f1bf0f8a48b451c50aef8d1cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 765, y: 6472}
+  - name: firefly person 4 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1079
+      y: 7207
+      width: 77
+      height: 92
+    spriteID: 660ca2e438881694584805c57284d413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 637, y: 6600}
+  - name: lantern person 2 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1347
+      y: 7207
+      width: 76
+      height: 84
+    spriteID: 6e991128f5493734aa7a514619ba2000
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 977, y: 5269}
+  - name: little my
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2424
+      y: 7183
+      width: 100
+      height: 151
+    spriteID: 0b8c2f2388a78ff49836b4561ec80343
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 900, y: 5334}
+  - name: rando 40 copy 6_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1945
+      y: 7207
+      width: 71
+      height: 71
+    spriteID: 643af299dca52be41a3d2c93a843d4e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1319, y: 4334}
+  - name: mum and kid copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1644
+      y: 8091
+      width: 89
+      height: 92
+    spriteID: ed82689918e25da4c9e177040c33dd00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 938, y: 5222}
+  - name: rando 610 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 3117
+      width: 82
+      height: 109
+    spriteID: dbe15f442e3857e49842071027b15a25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2511, y: 1371}
+  - name: rando 611 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2456
+      y: 7623
+      width: 73
+      height: 88
+    spriteID: ff02af2639f1e39419d190ddc0d14d2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1617, y: 6253}
+  - name: Jordan copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1525
+      y: 7207
+      width: 78
+      height: 78
+    spriteID: b456d3d7a5f7c1746b30e003891ffcdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 187, y: 6421}
+  - name: jae copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1697
+      y: 7207
+      width: 79
+      height: 76
+    spriteID: 81436ae148a52f34aaf83653b5b01139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 953, y: 5060}
+  - name: yin copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 3007
+      width: 95
+      height: 102
+    spriteID: 017252015b4beb64ca100d5c46a32a3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1977, y: 2566}
+  - name: ted copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 3234
+      width: 84
+      height: 88
+    spriteID: e67554fd81e709d40b64b5de9df0ed2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1590, y: 1057}
+  - name: Shirley copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1532
+      y: 8091
+      width: 104
+      height: 83
+    spriteID: 0be713d2a7824bc4f8f78d029cb33c20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -12, y: 6440}
+  - name: Paul murphy copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1784
+      y: 7207
+      width: 74
+      height: 75
+    spriteID: 23ff6756adbd7b14fbba34421387aadc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 730, y: 5054}
+  - name: chao copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1405
+      y: 8091
+      width: 119
+      height: 85
+    spriteID: f611f4033c12eab419e2ea0e827dbd46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 76, y: 6731}
+  - name: addison copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1164
+      y: 7207
+      width: 86
+      height: 82
+    spriteID: 5283c73d757e5d6419d31b1f281d86f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 732, y: 5215}
+  - name: Toby  copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1611
+      y: 7207
+      width: 78
+      height: 77
+    spriteID: e31984a4d533eed499c1c90d43b83136
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 887, y: 5786}
+  - name: alicia copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2384
+      y: 5257
+      width: 106
+      height: 76
+    spriteID: 2e99603783218104389208f38da7d693
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1721, y: 4757}
+  - name: node copy 37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3887
+      y: 1514
+      width: 153
+      height: 115
+    spriteID: 16de549a921c20a4d9bf51e2ad1f4c99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2586, y: 773}
+  - name: stag
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1741
+      y: 7932
+      width: 205
+      height: 245
+    spriteID: 8114eca14334fda4a9e7252ce7b47c10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1375, y: 7631}
+  - name: geyser, bunting, tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 1665
+      width: 608
+      height: 626
+    spriteID: 25d33044073e703408f306e04e28aac6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2569, y: 218}
+  - name: big tree copy 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1741
+      y: 7322
+      width: 243
+      height: 602
+    spriteID: ade34c288069a744992eb685e474392a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1270, y: 5808}
+  - name: red nordic tree copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2431
+      y: 5779
+      width: 82
+      height: 266
+    spriteID: dc99f745cdf8ad248b1e1b0eb04d900b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1178, y: 3463}
+  - name: red nordic tree copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3337
+      y: 3023
+      width: 82
+      height: 266
+    spriteID: 060526c7066128647ab55c16055a7e74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2874, y: 721}
+  - name: red nordic tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3954
+      y: 656
+      width: 82
+      height: 266
+    spriteID: ed955912230be1b448cefb919bf4ded7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2401, y: 334}
+  - name: beige nordic tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2337
+      y: 7753
+      width: 139
+      height: 257
+    spriteID: 07e652eb1ea88814aaa5112b964d257b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 856, y: 7346}
+  - name: ksusha copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1293
+      y: 8021
+      width: 104
+      height: 112
+    spriteID: b628270d06e66e64db80a88167b1d95e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: 7546}
+  - name: node copy 36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3466
+      y: 832
+      width: 153
+      height: 115
+    spriteID: 9fa8c53fac7880d46be679575503995d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2189, y: 396}
+  - name: levell line 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3450
+      y: 2275
+      width: 372
+      height: 823
+    spriteID: c8fa3f03dab39c94381fb8acb7bb6b01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2206, y: 1963}
+  - name: pink nordic tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2456
+      y: 7400
+      width: 72
+      height: 215
+    spriteID: 3bece8d9c6148b247a62642cbd0cf868
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 866, y: 6926}
+  - name: geyser
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 6075
+      width: 180
+      height: 460
+    spriteID: 906ae956819d6ff44a1ca154e6f507f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1263, y: 5605}
+  - name: firefly person 5 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1431
+      y: 7207
+      width: 86
+      height: 73
+    spriteID: bc2aa8a1fe53ebf4aac06040910de408
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 342, y: 6549}
+  - name: beetle person 3 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2371
+      y: 5694
+      width: 85
+      height: 75
+    spriteID: 71fb8f3e74188554082c63b0659850a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1187, y: 5062}
+  - name: geyser_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 2299
+      width: 470
+      height: 716
+    spriteID: 4bd4ac0aff2fc4441b409d1482eb09a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1891, y: 1941}
+  - name: 'Castle wall '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 4
+      width: 624
+      height: 971
+    spriteID: 6ff7cec8e681fe944b524f660faaf804
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1926, y: -470}
+  - name: node copy 38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3627
+      y: 832
+      width: 153
+      height: 115
+    spriteID: 7856ec71788f69e4b9daaa9e846267b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2479, y: -316}
+  - name: node copy 43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3788
+      y: 832
+      width: 153
+      height: 115
+    spriteID: 32b95354a2df1d94790175c43aa639f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3572, y: -1172}
+  - name: node copy 42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: 8dc60777a4fe52d4c979ea077430be1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -145, y: 6346}
+  - name: node copy 40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: 53114370a59b737429da044d89cddf94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1364, y: 6445}
+  - name: node copy 41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1013
+      y: 8021
+      width: 141
+      height: 115
+    spriteID: e6607e6a0f52ced45b03a6dd904e0239
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 195, y: 6698}
+  - name: level line 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 862
+      y: 7322
+      width: 871
+      height: 691
+    spriteID: edd65cd20c243e54f9d1e99744c387c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 103, y: 6246}
+  - name: Castle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2214
+      y: 4
+      width: 612
+      height: 1793
+    spriteID: 4c914177e1625d6459c8ad96d386fc63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1050, y: -503}
+  - name: ice town hut flames copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2214
+      y: 2784
+      width: 502
+      height: 548
+    spriteID: c567048c13987ac4e9986e79ff794c1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1086, y: 1676}
+  - name: ice town hut flames
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 3363
+      width: 502
+      height: 548
+    spriteID: 98589e116056d2a4b8c661f7828f2809
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 894, y: 2157}
+  - name: spire
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3312
+      y: 2299
+      width: 106
+      height: 667
+    spriteID: 66f7e30cf00c0574b92d1a8c0ff72851
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1858, y: 1078}
+  - name: blue spire
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3954
+      y: 4
+      width: 106
+      height: 644
+    spriteID: 52824e828e2f15a44b7ace04604873fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2816, y: -1109}
+  - name: node copy 39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 326
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: d13e7c8ff6fbacb4ca477779765f9277
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -759, y: 6491}
+  - name: level line 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 3023
+      width: 495
+      height: 255
+    spriteID: 4c79426d155dc9842999bfc3052cd7b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1744, y: 1497}
+  - name: troll skull
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7322
+      width: 850
+      height: 714
+    spriteID: 94aab76f06e6be54ba8f8ba642b5de76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -319, y: 6800}
+  - name: tiny leaf tree copy 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2384
+      y: 4904
+      width: 111
+      height: 345
+    spriteID: e7d9f6f710a52634d82d562d1c32f2a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1344, y: 2006}
+  - name: tiny leaf tree copy 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2371
+      y: 5341
+      width: 111
+      height: 345
+    spriteID: cead2be5c41dad243b97eebdb14e1c27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 762, y: 3787}
+  - name: tiny leaf tree copy 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3974
+      y: 1665
+      width: 111
+      height: 345
+    spriteID: 32f9126649446324a847e3a14b980227
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2252, y: -131}
+  - name: tiny leaf tree copy 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 7400
+      width: 111
+      height: 345
+    spriteID: a27f0ab8a5771594f9a6e1266c70714d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1355, y: 5891}
+  - name: tiny leaf tree copy 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 7753
+      width: 111
+      height: 345
+    spriteID: b48cfc8e6d488cc46bd25d7fbe269c77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1695, y: 5775}
+  - name: tiny leaf tree copy 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2337
+      y: 7400
+      width: 111
+      height: 345
+    spriteID: bb96d8787a6e9744ebfd6762251bbbcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2072, y: 5279}
+  - name: geyser small
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3830
+      y: 2742
+      width: 190
+      height: 546
+    spriteID: e31e25c7ec0fc804ba2676bd5c975256
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2826, y: 1234}
+  - name: tiny trolls
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 8106
+      width: 105
+      height: 81
+    spriteID: 8ff799eca73f2c84c85977d50b731026
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1279, y: 6554}
+  - name: moutains
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 3919
+      width: 478
+      height: 495
+    spriteID: 59dd205136c81e8448a6be5914bb583c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1373, y: 2390}
+  - name: pink nordic tree_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2724
+      y: 2784
+      width: 72
+      height: 215
+    spriteID: 71f6c1c41fbc5894f9f346e2f5eb553a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1492, y: 2347}
+  - name: troll arm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6674
+      width: 258
+      height: 285
+    spriteID: 7bddcce285016be48af0c42d7d9fff7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1973, y: 4180}
+  - name: nose copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3974
+      y: 2018
+      width: 111
+      height: 200
+    spriteID: 614d21ce51cc8264c84d885270084052
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3622, y: -786}
+  - name: pink mountain
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 5779
+      width: 393
+      height: 288
+    spriteID: 2b3d5a2eeb7f74e4593523154e89e674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1448, y: 3863}
+  - name: yeti
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3718
+      y: 983
+      width: 368
+      height: 523
+    spriteID: 8042d4eac2d9b6841a87b58f82d0caac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2982, y: -1013}
+  - name: node copy 45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: f947b6ef0c3f1834ab895c61ab02eba0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -938, y: 6145}
+  - name: node copy 44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 648
+      y: 8044
+      width: 153
+      height: 115
+    spriteID: 2c575a48a6f9b5f4a98ececb782a3f66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -425, y: 5923}
+  - name: level line 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2834
+      y: 983
+      width: 876
+      height: 674
+    spriteID: 99c61deba8c1f2c429690ebc1d4fb2ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2040, y: -936}
+  - name: snowmobile
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6075
+      width: 304
+      height: 272
+    spriteID: 91ed01251727c1e48b02a4a1d612e68e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1242, y: 3850}
+  - name: EoG node copy 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2337
+      y: 8018
+      width: 170
+      height: 131
+    spriteID: debcf00a90408924a9d483ddee349150
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1967, y: 6540}
+  - name: level lline 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3466
+      y: 4
+      width: 480
+      height: 820
+    spriteID: 5d9080800695e0145ab5a636860cae60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3333, y: -1398}
+  - name: 3 long mountains
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2214
+      y: 1805
+      width: 609
+      height: 971
+    spriteID: 767ac8d689453c44f8f38912f98601bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1982, y: -68}
+  - name: snowed over japanese house
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 4422
+      width: 432
+      height: 474
+    spriteID: e5a57577d95b13145a66e197649f3fe3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 546, y: 2632}
+  - name: hotdog copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2438
+      y: 6967
+      width: 88
+      height: 104
+    spriteID: 165d5d0567a59a74ab2a60fa32226441
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 921, y: 4697}
+  - name: dino slide dot copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2438
+      y: 7079
+      width: 94
+      height: 80
+    spriteID: 9137621dfca030a468c6ac22f7fc052d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1015, y: 4903}
+  - name: pink mountain_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 5341
+      width: 333
+      height: 430
+    spriteID: 9c3b16d29b66e5344928cae9b1d9d064
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 678, y: 3415}
+  - name: volcano smoke
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6967
+      width: 212
+      height: 208
+    spriteID: fd944b9931a16fd4688cab851b2ea4fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1696, y: 3886}
+  - name: 'log cabin '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6462
+      width: 1067
+      height: 852
+    spriteID: cf76b98f99834ab42be8cee4dfb553ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -428, y: 4202}
+  - name: fir tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3830
+      y: 2275
+      width: 243
+      height: 459
+    spriteID: 45234fa025cd3ec4b8053e80dcaeef3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3124, y: -487}
+  - name: brown treasure chest
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3718
+      y: 1514
+      width: 161
+      height: 128
+    spriteID: f424e00428217a449ad9261bfe2fecb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2789, y: -1378}
+  - name: right ear
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1405
+      y: 8021
+      width: 177
+      height: 62
+    spriteID: 7fd21e3d8c51d074f9050ec51ad3635e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 957, y: 5007}
+  - name: main bod copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3450
+      y: 1665
+      width: 516
+      height: 602
+    spriteID: 3418babfc7566bd4cb9cf839f37f5ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3268, y: -824}
+  - name: left ear
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 862
+      y: 8021
+      width: 143
+      height: 120
+    spriteID: a0476258f8bcc744491aa20261a4dc96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 676, y: 5147}
+  - name: wiggly lines copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3450
+      y: 3106
+      width: 368
+      height: 189
+    spriteID: 9cd048eefef30c04a82be05342118406
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1797, y: 2023}
+  - name: fox
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 7183
+      width: 198
+      height: 209
+    spriteID: 3d70d04275303ad4eace8f6ab9d8a28a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 460, y: 5780}
+  - name: main island tier 1 and 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3363
+      width: 2018
+      height: 3091
+    spriteID: dfba81e15e5e84e409277f5615d7703e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -18, y: 3199}
+  - name: troll in the cave copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2540
+      y: 3822
+      width: 376
+      height: 213
+    spriteID: ef884bb71d63b6c4dad59b514a18225f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1889, y: 2811}
+  - name: happy top knot troll
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2218
+      y: 6355
+      width: 264
+      height: 311
+    spriteID: a21f3233497bf4f42bc0039ae682c299
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1334, y: 5206}
+  - name: troll cave
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2540
+      y: 3363
+      width: 526
+      height: 451
+    spriteID: 53d9ad098ff31fc4982a419f87d5fef3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1968, y: 2344}
+  - name: troooooll
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 4904
+      width: 346
+      height: 429
+    spriteID: 776291738d975e74dbccc20b2517eedf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1636, y: 3977}
+  - name: 'trollwaterfall '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1079
+      y: 6462
+      width: 935
+      height: 737
+    spriteID: fc5bf22cac9895c4281af16161da083d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 892, y: 5337}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1866
+      y: 7286
+      width: 0
+      height: 0
+    spriteID: 1008c6df591ddf64a830caeee3f513e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -336, y: 3935}
+  - name: The Sea
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2202
+      height: 3351
+    spriteID: 5d43981f65738ff4f86547649f94a5fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 4096
+  documentSize: {x: 2202, y: 3351}
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers:
+  - name: SampleTier
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 17803
+    mosaicPosition: {x: 0, y: 0}
+  - name: People
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 17621
+    mosaicPosition: {x: 0, y: 0}
+  - name: rando 40 copy 6
+    spriteName: rando 40 copy 6
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8cdecc7ce1ac36a45a0021b38d759ffb
+    layerID: 17433
+    mosaicPosition: {x: 1866, y: 7207}
+  - name: rando 40 copy 6
+    spriteName: rando 40 copy 6_1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 29dc267e4f2ff694abf8bd9fc9ee8458
+    layerID: 17432
+    mosaicPosition: {x: 1258, y: 7207}
+  - name: firefly person 6 copy
+    spriteName: firefly person 6 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 41fa052f7e29ae04f8320efc6138eff7
+    layerID: 17404
+    mosaicPosition: {x: 1162, y: 8021}
+  - name: firefly person 4 copy
+    spriteName: firefly person 4 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3c8fa2c4d3fc124418c21af8749359f6
+    layerID: 17402
+    mosaicPosition: {x: 1079, y: 7207}
+  - name: lantern person 2 copy
+    spriteName: lantern person 2 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 008f0dc8d933d4c478fb98da37a7b05c
+    layerID: 17396
+    mosaicPosition: {x: 1347, y: 7207}
+  - name: little my
+    spriteName: little my
+    isGroup: 0
+    parentIndex: 1
+    spriteID: bb9b509dc024e7c43a49e63ad8f7efd3
+    layerID: 18069
+    mosaicPosition: {x: 2424, y: 7183}
+  - name: rando 40 copy 6
+    spriteName: rando 40 copy 6_2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 66cfa4e9b60364d4a83b8a24527a4227
+    layerID: 17393
+    mosaicPosition: {x: 1945, y: 7207}
+  - name: mum and kid copy 2
+    spriteName: mum and kid copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8b9219f53aadfe74d8273ca16d0b3fcb
+    layerID: 17392
+    mosaicPosition: {x: 1644, y: 8091}
+  - name: rando 610 copy
+    spriteName: rando 610 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 76e80e21fdb7b9f419f66fa20c155c9e
+    layerID: 17377
+    mosaicPosition: {x: 2724, y: 3117}
+  - name: rando 611 copy
+    spriteName: rando 611 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 7ed840e7f5fecd140a4db8168e007efe
+    layerID: 17376
+    mosaicPosition: {x: 2456, y: 7623}
+  - name: Jordan copy
+    spriteName: Jordan copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e479aecc3ef5bca4b94377f3866131a0
+    layerID: 17366
+    mosaicPosition: {x: 1525, y: 7207}
+  - name: jae copy
+    spriteName: jae copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 6f2dbe8f0c71a2349bd768c5cff4530d
+    layerID: 17365
+    mosaicPosition: {x: 1697, y: 7207}
+  - name: yin copy 2
+    spriteName: yin copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8d2219b5b3bbe814ba95fbb326039a8d
+    layerID: 17357
+    mosaicPosition: {x: 2724, y: 3007}
+  - name: ted copy 2
+    spriteName: ted copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 4f3467db70c38f54595d4db02edb9df2
+    layerID: 17356
+    mosaicPosition: {x: 2724, y: 3234}
+  - name: Shirley copy 2
+    spriteName: Shirley copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 26e0d42871c3c76489fd4896e4bbaf6d
+    layerID: 17355
+    mosaicPosition: {x: 1532, y: 8091}
+  - name: Paul murphy copy 2
+    spriteName: Paul murphy copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 882782a21e703454a8557153980ef6d4
+    layerID: 17336
+    mosaicPosition: {x: 1784, y: 7207}
+  - name: chao copy 2
+    spriteName: chao copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: a5ba93c7cfea0e043b4fad2081db74ed
+    layerID: 17325
+    mosaicPosition: {x: 1405, y: 8091}
+  - name: addison copy
+    spriteName: addison copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e0d9e0fa9643b7b468fdf9b96e5f83f6
+    layerID: 17324
+    mosaicPosition: {x: 1164, y: 7207}
+  - name: Toby  copy 2
+    spriteName: Toby  copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ef9d925deef06ea4ea22140f64f24470
+    layerID: 17302
+    mosaicPosition: {x: 1611, y: 7207}
+  - name: alicia copy
+    spriteName: alicia copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: a7727f0d724e53646ba769083a20e8e7
+    layerID: 17300
+    mosaicPosition: {x: 2384, y: 5257}
+  - name: node copy 37
+    spriteName: node copy 37
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9e56a326f9d92c94aaec3be8ce8b5f7f
+    layerID: 18166
+    mosaicPosition: {x: 3887, y: 1514}
+  - name: stag
+    spriteName: stag
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 18f247f3e02b69f439578407bc5fe7d2
+    layerID: 17954
+    mosaicPosition: {x: 1741, y: 7932}
+  - name: geyser, bunting, tree
+    spriteName: geyser, bunting, tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0b2c84d9e33dadf4c83021f816e033be
+    layerID: 18123
+    mosaicPosition: {x: 2834, y: 1665}
+  - name: big tree copy 12
+    spriteName: big tree copy 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 93972157b69b09844b21411788993b6c
+    layerID: 18122
+    mosaicPosition: {x: 1741, y: 7322}
+  - name: red nordic tree copy 3
+    spriteName: red nordic tree copy 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b3c4da68a94a2b247b7f8129719f4210
+    layerID: 18121
+    mosaicPosition: {x: 2431, y: 5779}
+  - name: red nordic tree copy 2
+    spriteName: red nordic tree copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6a2171ae3fd5bb849b36a47a92b7c967
+    layerID: 18120
+    mosaicPosition: {x: 3337, y: 3023}
+  - name: red nordic tree
+    spriteName: red nordic tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8b951718d7488f140ae95d50cf3d25cb
+    layerID: 17874
+    mosaicPosition: {x: 3954, y: 656}
+  - name: beige nordic tree
+    spriteName: beige nordic tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b95e3e59e06b562498c9c66e2afb3d75
+    layerID: 17873
+    mosaicPosition: {x: 2337, y: 7753}
+  - name: ksusha copy 2
+    spriteName: ksusha copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 08f17dfda7487434cb946b70b59bbdb3
+    layerID: 17333
+    mosaicPosition: {x: 1293, y: 8021}
+  - name: node copy 36
+    spriteName: node copy 36
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ab05505692cc01f4ca896f7ee2fc4a43
+    layerID: 18165
+    mosaicPosition: {x: 3466, y: 832}
+  - name: levell line 20
+    spriteName: levell line 20
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 02f20cab21f420a46bbbff64964e348a
+    layerID: 18150
+    mosaicPosition: {x: 3450, y: 2275}
+  - name: pink nordic tree
+    spriteName: pink nordic tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ee380fcf45af13445b724451b45d3597
+    layerID: 17867
+    mosaicPosition: {x: 2456, y: 7400}
+  - name: geyser
+    spriteName: geyser
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 17b174102f3216e4e89f3f72f80e5939
+    layerID: 18111
+    mosaicPosition: {x: 2030, y: 6075}
+  - name: firefly person 5 copy
+    spriteName: firefly person 5 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7374ad7a3e7a24c46ab1a42665594772
+    layerID: 17403
+    mosaicPosition: {x: 1431, y: 7207}
+  - name: beetle person 3 copy
+    spriteName: beetle person 3 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3cb347ad6711b9d4a81bd72403952bea
+    layerID: 17408
+    mosaicPosition: {x: 2371, y: 5694}
+  - name: geyser
+    spriteName: geyser_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 509d09a35bd91b34b8d8f39b70c8418a
+    layerID: 17899
+    mosaicPosition: {x: 2834, y: 2299}
+  - name: Moutain castle
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 18014
+    mosaicPosition: {x: 0, y: 0}
+  - name: 'Castle wall '
+    spriteName: 'Castle wall '
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 7b3d254e3f96d6f459ee0c76ac26e56b
+    layerID: 18005
+    mosaicPosition: {x: 2834, y: 4}
+  - name: node copy 38
+    spriteName: node copy 38
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 5ff127e7d786f5748b432924a9bf53f6
+    layerID: 18167
+    mosaicPosition: {x: 3627, y: 832}
+  - name: node copy 43
+    spriteName: node copy 43
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 5e93dcbd2ab11c44e9da073d7f12e429
+    layerID: 18173
+    mosaicPosition: {x: 3788, y: 832}
+  - name: node copy 42
+    spriteName: node copy 42
+    isGroup: 0
+    parentIndex: 38
+    spriteID: cefbd27a5263b9146855defe736c360f
+    layerID: 18172
+    mosaicPosition: {x: 4, y: 8044}
+  - name: node copy 40
+    spriteName: node copy 40
+    isGroup: 0
+    parentIndex: 38
+    spriteID: c2105eab692e8ec4f8cd291df29715a5
+    layerID: 18169
+    mosaicPosition: {x: 165, y: 8044}
+  - name: node copy 41
+    spriteName: node copy 41
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 39833837e6b30464abe1ec4e92de0f3f
+    layerID: 18170
+    mosaicPosition: {x: 1013, y: 8021}
+  - name: level line 21
+    spriteName: level line 21
+    isGroup: 0
+    parentIndex: 38
+    spriteID: d136ae55f9c47ca45bd4e9ac52f830d6
+    layerID: 18149
+    mosaicPosition: {x: 862, y: 7322}
+  - name: Castle
+    spriteName: Castle
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 697d11966190ad343a06ecaf1b425a0d
+    layerID: 18019
+    mosaicPosition: {x: 2214, y: 4}
+  - name: ice town hut flames copy
+    spriteName: ice town hut flames copy
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 66082eb316192c04cb75280dd71ffcfa
+    layerID: 18024
+    mosaicPosition: {x: 2214, y: 2784}
+  - name: ice town hut flames
+    spriteName: ice town hut flames
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 9ba559bb4c8026e419a19c4631581468
+    layerID: 18023
+    mosaicPosition: {x: 2030, y: 3363}
+  - name: spire
+    spriteName: spire
+    isGroup: 0
+    parentIndex: 38
+    spriteID: d33f094383964904990cfeeaa977ca9f
+    layerID: 18006
+    mosaicPosition: {x: 3312, y: 2299}
+  - name: blue spire
+    spriteName: blue spire
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 64cf766289ddb6847908990e8e8aeab4
+    layerID: 18007
+    mosaicPosition: {x: 3954, y: 4}
+  - name: node copy 39
+    spriteName: node copy 39
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 6cdc35c58f3fd2444beb71980b46b3cf
+    layerID: 18168
+    mosaicPosition: {x: 326, y: 8044}
+  - name: level line 22
+    spriteName: level line 22
+    isGroup: 0
+    parentIndex: 38
+    spriteID: b956e81dc56dc78489f1a54acdc210a6
+    layerID: 18151
+    mosaicPosition: {x: 2834, y: 3023}
+  - name: troll skull
+    spriteName: troll skull
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1b014286125b2404ba55c194e4a847d5
+    layerID: 18124
+    mosaicPosition: {x: 4, y: 7322}
+  - name: tiny leaf tree copy 13
+    spriteName: tiny leaf tree copy 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 819d35ce299c29f49a28d5caf0356122
+    layerID: 18133
+    mosaicPosition: {x: 2384, y: 4904}
+  - name: tiny leaf tree copy 12
+    spriteName: tiny leaf tree copy 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 79bf54c860acf3b4c96633fecfbd88a7
+    layerID: 18132
+    mosaicPosition: {x: 2371, y: 5341}
+  - name: tiny leaf tree copy 11
+    spriteName: tiny leaf tree copy 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e3343604bda4dcd428e53b73a252c354
+    layerID: 18131
+    mosaicPosition: {x: 3974, y: 1665}
+  - name: tiny leaf tree copy 10
+    spriteName: tiny leaf tree copy 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 032248cd9b75d8749bfe2cb5f00a575d
+    layerID: 18130
+    mosaicPosition: {x: 2218, y: 7400}
+  - name: tiny leaf tree copy 9
+    spriteName: tiny leaf tree copy 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8cdfa7dcf3f610c4da483f8757a6cb8c
+    layerID: 18129
+    mosaicPosition: {x: 2218, y: 7753}
+  - name: tiny leaf tree copy 8
+    spriteName: tiny leaf tree copy 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 96559a3e3e2eea145af9761323fdc34a
+    layerID: 18128
+    mosaicPosition: {x: 2337, y: 7400}
+  - name: geyser small
+    spriteName: geyser small
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8678c84348e1ec443bc81b4a9767ea1b
+    layerID: 18113
+    mosaicPosition: {x: 3830, y: 2742}
+  - name: tiny trolls
+    spriteName: tiny trolls
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dfb9b9e7e32d38e4da10decb72f50d09
+    layerID: 18519
+    mosaicPosition: {x: 2218, y: 8106}
+  - name: moutains
+    spriteName: moutains
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 543b492ae9f2a474287791414859030e
+    layerID: 17973
+    mosaicPosition: {x: 2030, y: 3919}
+  - name: pink nordic tree
+    spriteName: pink nordic tree_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 771e6eab0832162419d62c5ad6971df5
+    layerID: 17877
+    mosaicPosition: {x: 2724, y: 2784}
+  - name: troll arm
+    spriteName: troll arm
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bdc687938077ce54db808cf9b53ac13a
+    layerID: 18106
+    mosaicPosition: {x: 2218, y: 6674}
+  - name: nose copy
+    spriteName: nose copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 78f3025c37b65e04a81b79e26127b473
+    layerID: 18097
+    mosaicPosition: {x: 3974, y: 2018}
+  - name: pink mountain
+    spriteName: pink mountain
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3cf88588191d2864a81d1025f593649c
+    layerID: 18064
+    mosaicPosition: {x: 2030, y: 5779}
+  - name: yeti
+    spriteName: yeti
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ced1d675ffd8e4c4a9425588835cb1bd
+    layerID: 18051
+    mosaicPosition: {x: 3718, y: 983}
+  - name: node copy 45
+    spriteName: node copy 45
+    isGroup: 0
+    parentIndex: 0
+    spriteID: db28355c2a4b4be4a8874d9c750fff55
+    layerID: 18175
+    mosaicPosition: {x: 487, y: 8044}
+  - name: node copy 44
+    spriteName: node copy 44
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 824278fef855c474f992f548afae8ac3
+    layerID: 18174
+    mosaicPosition: {x: 648, y: 8044}
+  - name: level line 23
+    spriteName: level line 23
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e6d918667fa7e0347b89551d88e9049f
+    layerID: 18148
+    mosaicPosition: {x: 2834, y: 983}
+  - name: snowmobile
+    spriteName: snowmobile
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c0c27b083c503e64a816b24a87728c54
+    layerID: 18055
+    mosaicPosition: {x: 2218, y: 6075}
+  - name: EoG node copy 4
+    spriteName: EoG node copy 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bb133b2482ce13b418812393c57f38ee
+    layerID: 18171
+    mosaicPosition: {x: 2337, y: 8018}
+  - name: level lline 22
+    spriteName: level lline 22
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e702a14fe2bc130428a114b2cd42d10a
+    layerID: 18152
+    mosaicPosition: {x: 3466, y: 4}
+  - name: 3 long mountains
+    spriteName: 3 long mountains
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 33c46852ef011b1479a7c7ab7feb8f69
+    layerID: 18062
+    mosaicPosition: {x: 2214, y: 1805}
+  - name: snowed over japanese house
+    spriteName: snowed over japanese house
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dd169ddbc510f594baf6821dfea545d0
+    layerID: 18078
+    mosaicPosition: {x: 2030, y: 4422}
+  - name: hotdog copy
+    spriteName: hotdog copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 656c1c9cb8abc7e4783601a8c97643aa
+    layerID: 17458
+    mosaicPosition: {x: 2438, y: 6967}
+  - name: dino slide dot copy
+    spriteName: dino slide dot copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 69972af6f89c73e40bb68a373f880778
+    layerID: 17457
+    mosaicPosition: {x: 2438, y: 7079}
+  - name: pink mountain
+    spriteName: pink mountain_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b9ef46172491ba047aafc3f045240ce8
+    layerID: 18065
+    mosaicPosition: {x: 2030, y: 5341}
+  - name: volcano smoke
+    spriteName: volcano smoke
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3bffbab39df9d3946960225cec215aba
+    layerID: 18535
+    mosaicPosition: {x: 2218, y: 6967}
+  - name: 'log cabin '
+    spriteName: 'log cabin '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4b67c225918baf3468a27559ccc18ff9
+    layerID: 18046
+    mosaicPosition: {x: 4, y: 6462}
+  - name: fir tree
+    spriteName: fir tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1ab28714bf6dc7346a920e10bd444b4d
+    layerID: 18117
+    mosaicPosition: {x: 3830, y: 2275}
+  - name: brown treasure chest
+    spriteName: brown treasure chest
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f34806bf5a178264b8f05766419ac2ad
+    layerID: 18141
+    mosaicPosition: {x: 3718, y: 1514}
+  - name: right ear
+    spriteName: right ear
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 00d92b6ecd85cb04a95b77bc9eb62074
+    layerID: 18099
+    mosaicPosition: {x: 1405, y: 8021}
+  - name: main bod copy
+    spriteName: main bod copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3056660f5d497554588b22f3d64da7cb
+    layerID: 18096
+    mosaicPosition: {x: 3450, y: 1665}
+  - name: left ear
+    spriteName: left ear
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f923bc698b1f4f14385b3dfa0abea85b
+    layerID: 18098
+    mosaicPosition: {x: 862, y: 8021}
+  - name: wiggly lines copy
+    spriteName: wiggly lines copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c5ee30876ffe03b41871e649407fcf78
+    layerID: 18538
+    mosaicPosition: {x: 3450, y: 3106}
+  - name: fox
+    spriteName: fox
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4b9c20a4252adc64895da13e511f3fd2
+    layerID: 18536
+    mosaicPosition: {x: 2218, y: 7183}
+  - name: main island tier 1 and 3
+    spriteName: main island tier 1 and 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 993a18c5b2422d14783d7ae453a36b89
+    layerID: 18127
+    mosaicPosition: {x: 4, y: 3363}
+  - name: troll in the cave copy
+    spriteName: troll in the cave copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7aa162494b4afb04d910ada587160536
+    layerID: 18083
+    mosaicPosition: {x: 2540, y: 3822}
+  - name: happy top knot troll
+    spriteName: happy top knot troll
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0f80265ce17a8a447b326ccb1be4a855
+    layerID: 18085
+    mosaicPosition: {x: 2218, y: 6355}
+  - name: troll cave
+    spriteName: troll cave
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2ad0b40bbe856564493ec29f4796b22a
+    layerID: 18084
+    mosaicPosition: {x: 2540, y: 3363}
+  - name: troooooll
+    spriteName: troooooll
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 917d13010a26367409ee22bd637859fb
+    layerID: 18090
+    mosaicPosition: {x: 2030, y: 4904}
+  - name: 'trollwaterfall '
+    spriteName: 'trollwaterfall '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d4d14551b0b9675419bfb9681575eb81
+    layerID: 18072
+    mosaicPosition: {x: 1079, y: 6462}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 393db1e666bd6b2418b7fa87995e36cf
+    layerID: 18541
+    mosaicPosition: {x: 1866, y: 7286}
+  - name: The Sea
+    spriteName: The Sea
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 689c1defc5d9de947801418ba70ff2bc
+    layerID: 17155
+    mosaicPosition: {x: 4, y: 4}
+  rigPSDLayers:
+  - name: SampleTier
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 17803
+    mosaicPosition: {x: 0, y: 0}
+  - name: People
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 17621
+    mosaicPosition: {x: 0, y: 0}
+  - name: rando 40 copy 6
+    spriteName: rando 40 copy 6
+    isGroup: 0
+    parentIndex: 1
+    spriteID: cf98500190d8d8643b918b21134eb402
+    layerID: 17433
+    mosaicPosition: {x: 1866, y: 7207}
+  - name: rando 40 copy 6
+    spriteName: rando 40 copy 6_1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 4c9619e44af246843af448004b2ea5ce
+    layerID: 17432
+    mosaicPosition: {x: 1258, y: 7207}
+  - name: firefly person 6 copy
+    spriteName: firefly person 6 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8731a09f1bf0f8a48b451c50aef8d1cb
+    layerID: 17404
+    mosaicPosition: {x: 1162, y: 8021}
+  - name: firefly person 4 copy
+    spriteName: firefly person 4 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 660ca2e438881694584805c57284d413
+    layerID: 17402
+    mosaicPosition: {x: 1079, y: 7207}
+  - name: lantern person 2 copy
+    spriteName: lantern person 2 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 6e991128f5493734aa7a514619ba2000
+    layerID: 17396
+    mosaicPosition: {x: 1347, y: 7207}
+  - name: little my
+    spriteName: little my
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 0b8c2f2388a78ff49836b4561ec80343
+    layerID: 18069
+    mosaicPosition: {x: 2424, y: 7183}
+  - name: rando 40 copy 6
+    spriteName: rando 40 copy 6_2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 643af299dca52be41a3d2c93a843d4e5
+    layerID: 17393
+    mosaicPosition: {x: 1945, y: 7207}
+  - name: mum and kid copy 2
+    spriteName: mum and kid copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ed82689918e25da4c9e177040c33dd00
+    layerID: 17392
+    mosaicPosition: {x: 1644, y: 8091}
+  - name: rando 610 copy
+    spriteName: rando 610 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: dbe15f442e3857e49842071027b15a25
+    layerID: 17377
+    mosaicPosition: {x: 2724, y: 3117}
+  - name: rando 611 copy
+    spriteName: rando 611 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ff02af2639f1e39419d190ddc0d14d2f
+    layerID: 17376
+    mosaicPosition: {x: 2456, y: 7623}
+  - name: Jordan copy
+    spriteName: Jordan copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: b456d3d7a5f7c1746b30e003891ffcdc
+    layerID: 17366
+    mosaicPosition: {x: 1525, y: 7207}
+  - name: jae copy
+    spriteName: jae copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 81436ae148a52f34aaf83653b5b01139
+    layerID: 17365
+    mosaicPosition: {x: 1697, y: 7207}
+  - name: yin copy 2
+    spriteName: yin copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 017252015b4beb64ca100d5c46a32a3d
+    layerID: 17357
+    mosaicPosition: {x: 2724, y: 3007}
+  - name: ted copy 2
+    spriteName: ted copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e67554fd81e709d40b64b5de9df0ed2b
+    layerID: 17356
+    mosaicPosition: {x: 2724, y: 3234}
+  - name: Shirley copy 2
+    spriteName: Shirley copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 0be713d2a7824bc4f8f78d029cb33c20
+    layerID: 17355
+    mosaicPosition: {x: 1532, y: 8091}
+  - name: Paul murphy copy 2
+    spriteName: Paul murphy copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 23ff6756adbd7b14fbba34421387aadc
+    layerID: 17336
+    mosaicPosition: {x: 1784, y: 7207}
+  - name: chao copy 2
+    spriteName: chao copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: f611f4033c12eab419e2ea0e827dbd46
+    layerID: 17325
+    mosaicPosition: {x: 1405, y: 8091}
+  - name: addison copy
+    spriteName: addison copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 5283c73d757e5d6419d31b1f281d86f9
+    layerID: 17324
+    mosaicPosition: {x: 1164, y: 7207}
+  - name: Toby  copy 2
+    spriteName: Toby  copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e31984a4d533eed499c1c90d43b83136
+    layerID: 17302
+    mosaicPosition: {x: 1611, y: 7207}
+  - name: alicia copy
+    spriteName: alicia copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 2e99603783218104389208f38da7d693
+    layerID: 17300
+    mosaicPosition: {x: 2384, y: 5257}
+  - name: node copy 37
+    spriteName: node copy 37
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 16de549a921c20a4d9bf51e2ad1f4c99
+    layerID: 18166
+    mosaicPosition: {x: 3887, y: 1514}
+  - name: stag
+    spriteName: stag
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8114eca14334fda4a9e7252ce7b47c10
+    layerID: 17954
+    mosaicPosition: {x: 1741, y: 7932}
+  - name: geyser, bunting, tree
+    spriteName: geyser, bunting, tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 25d33044073e703408f306e04e28aac6
+    layerID: 18123
+    mosaicPosition: {x: 2834, y: 1665}
+  - name: big tree copy 12
+    spriteName: big tree copy 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ade34c288069a744992eb685e474392a
+    layerID: 18122
+    mosaicPosition: {x: 1741, y: 7322}
+  - name: red nordic tree copy 3
+    spriteName: red nordic tree copy 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dc99f745cdf8ad248b1e1b0eb04d900b
+    layerID: 18121
+    mosaicPosition: {x: 2431, y: 5779}
+  - name: red nordic tree copy 2
+    spriteName: red nordic tree copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 060526c7066128647ab55c16055a7e74
+    layerID: 18120
+    mosaicPosition: {x: 3337, y: 3023}
+  - name: red nordic tree
+    spriteName: red nordic tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ed955912230be1b448cefb919bf4ded7
+    layerID: 17874
+    mosaicPosition: {x: 3954, y: 656}
+  - name: beige nordic tree
+    spriteName: beige nordic tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 07e652eb1ea88814aaa5112b964d257b
+    layerID: 17873
+    mosaicPosition: {x: 2337, y: 7753}
+  - name: ksusha copy 2
+    spriteName: ksusha copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b628270d06e66e64db80a88167b1d95e
+    layerID: 17333
+    mosaicPosition: {x: 1293, y: 8021}
+  - name: node copy 36
+    spriteName: node copy 36
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9fa8c53fac7880d46be679575503995d
+    layerID: 18165
+    mosaicPosition: {x: 3466, y: 832}
+  - name: levell line 20
+    spriteName: levell line 20
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c8fa3f03dab39c94381fb8acb7bb6b01
+    layerID: 18150
+    mosaicPosition: {x: 3450, y: 2275}
+  - name: pink nordic tree
+    spriteName: pink nordic tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3bece8d9c6148b247a62642cbd0cf868
+    layerID: 17867
+    mosaicPosition: {x: 2456, y: 7400}
+  - name: geyser
+    spriteName: geyser
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 906ae956819d6ff44a1ca154e6f507f6
+    layerID: 18111
+    mosaicPosition: {x: 2030, y: 6075}
+  - name: firefly person 5 copy
+    spriteName: firefly person 5 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bc2aa8a1fe53ebf4aac06040910de408
+    layerID: 17403
+    mosaicPosition: {x: 1431, y: 7207}
+  - name: beetle person 3 copy
+    spriteName: beetle person 3 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 71fb8f3e74188554082c63b0659850a0
+    layerID: 17408
+    mosaicPosition: {x: 2371, y: 5694}
+  - name: geyser
+    spriteName: geyser_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4bd4ac0aff2fc4441b409d1482eb09a4
+    layerID: 17899
+    mosaicPosition: {x: 2834, y: 2299}
+  - name: Moutain castle
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 18014
+    mosaicPosition: {x: 0, y: 0}
+  - name: 'Castle wall '
+    spriteName: 'Castle wall '
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 6ff7cec8e681fe944b524f660faaf804
+    layerID: 18005
+    mosaicPosition: {x: 2834, y: 4}
+  - name: node copy 38
+    spriteName: node copy 38
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 7856ec71788f69e4b9daaa9e846267b1
+    layerID: 18167
+    mosaicPosition: {x: 3627, y: 832}
+  - name: node copy 43
+    spriteName: node copy 43
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 32b95354a2df1d94790175c43aa639f0
+    layerID: 18173
+    mosaicPosition: {x: 3788, y: 832}
+  - name: node copy 42
+    spriteName: node copy 42
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 8dc60777a4fe52d4c979ea077430be1b
+    layerID: 18172
+    mosaicPosition: {x: 4, y: 8044}
+  - name: node copy 40
+    spriteName: node copy 40
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 53114370a59b737429da044d89cddf94
+    layerID: 18169
+    mosaicPosition: {x: 165, y: 8044}
+  - name: node copy 41
+    spriteName: node copy 41
+    isGroup: 0
+    parentIndex: 38
+    spriteID: e6607e6a0f52ced45b03a6dd904e0239
+    layerID: 18170
+    mosaicPosition: {x: 1013, y: 8021}
+  - name: level line 21
+    spriteName: level line 21
+    isGroup: 0
+    parentIndex: 38
+    spriteID: edd65cd20c243e54f9d1e99744c387c0
+    layerID: 18149
+    mosaicPosition: {x: 862, y: 7322}
+  - name: Castle
+    spriteName: Castle
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 4c914177e1625d6459c8ad96d386fc63
+    layerID: 18019
+    mosaicPosition: {x: 2214, y: 4}
+  - name: ice town hut flames copy
+    spriteName: ice town hut flames copy
+    isGroup: 0
+    parentIndex: 38
+    spriteID: c567048c13987ac4e9986e79ff794c1d
+    layerID: 18024
+    mosaicPosition: {x: 2214, y: 2784}
+  - name: ice town hut flames
+    spriteName: ice town hut flames
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 98589e116056d2a4b8c661f7828f2809
+    layerID: 18023
+    mosaicPosition: {x: 2030, y: 3363}
+  - name: spire
+    spriteName: spire
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 66f7e30cf00c0574b92d1a8c0ff72851
+    layerID: 18006
+    mosaicPosition: {x: 3312, y: 2299}
+  - name: blue spire
+    spriteName: blue spire
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 52824e828e2f15a44b7ace04604873fe
+    layerID: 18007
+    mosaicPosition: {x: 3954, y: 4}
+  - name: node copy 39
+    spriteName: node copy 39
+    isGroup: 0
+    parentIndex: 38
+    spriteID: d13e7c8ff6fbacb4ca477779765f9277
+    layerID: 18168
+    mosaicPosition: {x: 326, y: 8044}
+  - name: level line 22
+    spriteName: level line 22
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 4c79426d155dc9842999bfc3052cd7b9
+    layerID: 18151
+    mosaicPosition: {x: 2834, y: 3023}
+  - name: troll skull
+    spriteName: troll skull
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 94aab76f06e6be54ba8f8ba642b5de76
+    layerID: 18124
+    mosaicPosition: {x: 4, y: 7322}
+  - name: tiny leaf tree copy 13
+    spriteName: tiny leaf tree copy 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e7d9f6f710a52634d82d562d1c32f2a7
+    layerID: 18133
+    mosaicPosition: {x: 2384, y: 4904}
+  - name: tiny leaf tree copy 12
+    spriteName: tiny leaf tree copy 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cead2be5c41dad243b97eebdb14e1c27
+    layerID: 18132
+    mosaicPosition: {x: 2371, y: 5341}
+  - name: tiny leaf tree copy 11
+    spriteName: tiny leaf tree copy 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 32f9126649446324a847e3a14b980227
+    layerID: 18131
+    mosaicPosition: {x: 3974, y: 1665}
+  - name: tiny leaf tree copy 10
+    spriteName: tiny leaf tree copy 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a27f0ab8a5771594f9a6e1266c70714d
+    layerID: 18130
+    mosaicPosition: {x: 2218, y: 7400}
+  - name: tiny leaf tree copy 9
+    spriteName: tiny leaf tree copy 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b48cfc8e6d488cc46bd25d7fbe269c77
+    layerID: 18129
+    mosaicPosition: {x: 2218, y: 7753}
+  - name: tiny leaf tree copy 8
+    spriteName: tiny leaf tree copy 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bb96d8787a6e9744ebfd6762251bbbcd
+    layerID: 18128
+    mosaicPosition: {x: 2337, y: 7400}
+  - name: geyser small
+    spriteName: geyser small
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e31e25c7ec0fc804ba2676bd5c975256
+    layerID: 18113
+    mosaicPosition: {x: 3830, y: 2742}
+  - name: tiny trolls
+    spriteName: tiny trolls
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8ff799eca73f2c84c85977d50b731026
+    layerID: 18519
+    mosaicPosition: {x: 2218, y: 8106}
+  - name: moutains
+    spriteName: moutains
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 59dd205136c81e8448a6be5914bb583c
+    layerID: 17973
+    mosaicPosition: {x: 2030, y: 3919}
+  - name: pink nordic tree
+    spriteName: pink nordic tree_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 71f6c1c41fbc5894f9f346e2f5eb553a
+    layerID: 17877
+    mosaicPosition: {x: 2724, y: 2784}
+  - name: troll arm
+    spriteName: troll arm
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7bddcce285016be48af0c42d7d9fff7c
+    layerID: 18106
+    mosaicPosition: {x: 2218, y: 6674}
+  - name: nose copy
+    spriteName: nose copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 614d21ce51cc8264c84d885270084052
+    layerID: 18097
+    mosaicPosition: {x: 3974, y: 2018}
+  - name: pink mountain
+    spriteName: pink mountain
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2b3d5a2eeb7f74e4593523154e89e674
+    layerID: 18064
+    mosaicPosition: {x: 2030, y: 5779}
+  - name: yeti
+    spriteName: yeti
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8042d4eac2d9b6841a87b58f82d0caac
+    layerID: 18051
+    mosaicPosition: {x: 3718, y: 983}
+  - name: node copy 45
+    spriteName: node copy 45
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f947b6ef0c3f1834ab895c61ab02eba0
+    layerID: 18175
+    mosaicPosition: {x: 487, y: 8044}
+  - name: node copy 44
+    spriteName: node copy 44
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2c575a48a6f9b5f4a98ececb782a3f66
+    layerID: 18174
+    mosaicPosition: {x: 648, y: 8044}
+  - name: level line 23
+    spriteName: level line 23
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 99c61deba8c1f2c429690ebc1d4fb2ce
+    layerID: 18148
+    mosaicPosition: {x: 2834, y: 983}
+  - name: snowmobile
+    spriteName: snowmobile
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 91ed01251727c1e48b02a4a1d612e68e
+    layerID: 18055
+    mosaicPosition: {x: 2218, y: 6075}
+  - name: EoG node copy 4
+    spriteName: EoG node copy 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: debcf00a90408924a9d483ddee349150
+    layerID: 18171
+    mosaicPosition: {x: 2337, y: 8018}
+  - name: level lline 22
+    spriteName: level lline 22
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5d9080800695e0145ab5a636860cae60
+    layerID: 18152
+    mosaicPosition: {x: 3466, y: 4}
+  - name: 3 long mountains
+    spriteName: 3 long mountains
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 767ac8d689453c44f8f38912f98601bb
+    layerID: 18062
+    mosaicPosition: {x: 2214, y: 1805}
+  - name: snowed over japanese house
+    spriteName: snowed over japanese house
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e5a57577d95b13145a66e197649f3fe3
+    layerID: 18078
+    mosaicPosition: {x: 2030, y: 4422}
+  - name: hotdog copy
+    spriteName: hotdog copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 165d5d0567a59a74ab2a60fa32226441
+    layerID: 17458
+    mosaicPosition: {x: 2438, y: 6967}
+  - name: dino slide dot copy
+    spriteName: dino slide dot copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9137621dfca030a468c6ac22f7fc052d
+    layerID: 17457
+    mosaicPosition: {x: 2438, y: 7079}
+  - name: pink mountain
+    spriteName: pink mountain_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9c3b16d29b66e5344928cae9b1d9d064
+    layerID: 18065
+    mosaicPosition: {x: 2030, y: 5341}
+  - name: volcano smoke
+    spriteName: volcano smoke
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fd944b9931a16fd4688cab851b2ea4fd
+    layerID: 18535
+    mosaicPosition: {x: 2218, y: 6967}
+  - name: 'log cabin '
+    spriteName: 'log cabin '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cf76b98f99834ab42be8cee4dfb553ed
+    layerID: 18046
+    mosaicPosition: {x: 4, y: 6462}
+  - name: fir tree
+    spriteName: fir tree
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 45234fa025cd3ec4b8053e80dcaeef3c
+    layerID: 18117
+    mosaicPosition: {x: 3830, y: 2275}
+  - name: brown treasure chest
+    spriteName: brown treasure chest
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f424e00428217a449ad9261bfe2fecb8
+    layerID: 18141
+    mosaicPosition: {x: 3718, y: 1514}
+  - name: right ear
+    spriteName: right ear
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7fd21e3d8c51d074f9050ec51ad3635e
+    layerID: 18099
+    mosaicPosition: {x: 1405, y: 8021}
+  - name: main bod copy
+    spriteName: main bod copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3418babfc7566bd4cb9cf839f37f5ec4
+    layerID: 18096
+    mosaicPosition: {x: 3450, y: 1665}
+  - name: left ear
+    spriteName: left ear
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a0476258f8bcc744491aa20261a4dc96
+    layerID: 18098
+    mosaicPosition: {x: 862, y: 8021}
+  - name: wiggly lines copy
+    spriteName: wiggly lines copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9cd048eefef30c04a82be05342118406
+    layerID: 18538
+    mosaicPosition: {x: 3450, y: 3106}
+  - name: fox
+    spriteName: fox
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3d70d04275303ad4eace8f6ab9d8a28a
+    layerID: 18536
+    mosaicPosition: {x: 2218, y: 7183}
+  - name: main island tier 1 and 3
+    spriteName: main island tier 1 and 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dfba81e15e5e84e409277f5615d7703e
+    layerID: 18127
+    mosaicPosition: {x: 4, y: 3363}
+  - name: troll in the cave copy
+    spriteName: troll in the cave copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ef884bb71d63b6c4dad59b514a18225f
+    layerID: 18083
+    mosaicPosition: {x: 2540, y: 3822}
+  - name: happy top knot troll
+    spriteName: happy top knot troll
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a21f3233497bf4f42bc0039ae682c299
+    layerID: 18085
+    mosaicPosition: {x: 2218, y: 6355}
+  - name: troll cave
+    spriteName: troll cave
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 53d9ad098ff31fc4982a419f87d5fef3
+    layerID: 18084
+    mosaicPosition: {x: 2540, y: 3363}
+  - name: troooooll
+    spriteName: troooooll
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 776291738d975e74dbccc20b2517eedf
+    layerID: 18090
+    mosaicPosition: {x: 2030, y: 4904}
+  - name: 'trollwaterfall '
+    spriteName: 'trollwaterfall '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fc5bf22cac9895c4281af16161da083d
+    layerID: 18072
+    mosaicPosition: {x: 1079, y: 6462}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1008c6df591ddf64a830caeee3f513e9
+    layerID: 18541
+    mosaicPosition: {x: 1866, y: 7286}
+  - name: The Sea
+    spriteName: The Sea
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5d43981f65738ff4f86547649f94a5fe
+    layerID: 17155
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 1
+  textureAssetName: ScavengerHuntTest
+  prefabAssetName: ScavengerHuntTest_GO
