@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9dec257-3e0d-45d4-9602-8584448fd81a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea._emanimations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea._emanimations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/_emanimation0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/_emanimation0.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Jordan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Jordan.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PanZoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PanZoom.cs" afterDir="false" />
-    </list>
+    <list default="true" id="e9dec257-3e0d-45d4-9602-8584448fd81a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +95,7 @@
       <updated>1603599132549</updated>
       <workItem from="1603599136826" duration="1418000" />
       <workItem from="1603601762075" duration="614000" />
-      <workItem from="1603652415305" duration="24589000" />
+      <workItem from="1603652415305" duration="25242000" />
     </task>
     <task id="LOCAL-00001" summary="camera setup and animations">
       <created>1603780772477</created>
@@ -116,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603790124837</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="removed aplify and created a pckg file">
+      <created>1603791663839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603791663839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +141,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="camera setup and animations" />
     <MESSAGE value="final changes for the presentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="final changes for the presentation" />
+    <MESSAGE value="removed aplify and created a pckg file" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed aplify and created a pckg file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="338" y="239" width="1280" height="1031" key="VCS.FileHistoryDialog" timestamp="1603790133216">
