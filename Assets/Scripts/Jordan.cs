@@ -5,7 +5,10 @@ using UnityEngine;
 
 public class Jordan : MonoBehaviour {
     
+    [SerializeField] float m_onClickGravity = 4f;
     Rigidbody2D m_rigidbody2D;
+    private float rotationZ;
+    private float rotationSpeed;
     
     void Awake() {
         m_rigidbody2D = GetComponent<Rigidbody2D>();
@@ -17,6 +20,6 @@ public class Jordan : MonoBehaviour {
 
     private void OnMouseDown() {
         if (m_rigidbody2D != null)
-            m_rigidbody2D.gravityScale = 1;
+            m_rigidbody2D.gravityScale = m_onClickGravity;
     }
 }

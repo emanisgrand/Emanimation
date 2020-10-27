@@ -44,24 +44,6 @@ public class PanZoom : MonoBehaviour
                 = m_camDragFrom - m_cam.ScreenToWorldPoint(Input.mousePosition);
             
             m_cam.transform.position = CameraClamp(m_cam.transform.position + difference);
-
-
-            //new Vector2(m_camPos1.x + screenSize.x, m_camPos1.y + screenSize.y);
-            // if (Input.GetAxis("Mouse X") != 0 || Input.GetAxis("Mouse Y") != 0) {
-            //     
-            //     m_camDragTo = Input.mousePosition;
-            //     
-            //     Vector3 screenDelta = m_camDragFrom - m_camDragTo;
-            //     
-            //     Vector2 screenSize = ScaleScreenToWorldSize(
-            //         m_cam.aspect,
-            //         m_cam.orthographicSize, 
-            //         m_cam.scaledPixelWidth, 
-            //         m_cam.scaledPixelHeight, 
-            //         screenDelta.x, 
-            //         screenDelta.y  
-            //     );
-            // }
         }
     }
 
@@ -81,15 +63,4 @@ public class PanZoom : MonoBehaviour
         
         return new Vector3(newX, newY, boundPosition.z);
     }
-    
-    // // convert screen coordinate to world coordinate
-    // Vector2 ScaleScreenToWorldSize (float camAspect,float camSize,float camScreenPixelWidth,float camScreenPixelHeight,float screenW,float screenH)
-    // {
-    //     float cameraWidth = camAspect * camSize * 2f;
-    //     float cameraHeight = camSize * 2f;
-    //     float screenWorldW = screenW * (cameraWidth / camScreenPixelWidth);
-    //     float screenWorldH=screenH*(cameraHeight/camScreenPixelHeight);
-    //     
-    //     return new Vector2(screenWorldW,screenWorldH);
-    // }
 }
